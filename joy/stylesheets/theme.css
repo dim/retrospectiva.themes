@@ -41,7 +41,8 @@ table.code .separator th,
 table.code thead th,
 table.code tbody th { background-color: #eae5ce; }
 
-.milestones .completed { background-color:#e78f00 }
+.milestones .resolved { background: #e78f00; }
+.milestones .in-progress { background: #fd9; }
 
 form.plus_form {
   background:#eae5ce;
