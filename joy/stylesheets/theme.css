@@ -23,7 +23,7 @@ a:hover { color:#004080; text-decoration:underline; background:none; }
 .content-footer { border-color:#c7b88e; }
 
 .box,
-.internal-navigation { background-color: #eae5ce; }
+.filter-selection { background-color: #eae5ce; }
 
 th, tr.even td { background-color: #eae5ce; }
 tr.odd td      { background-color: #fff; }
