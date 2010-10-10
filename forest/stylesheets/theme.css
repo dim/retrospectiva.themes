@@ -34,3 +34,5 @@ ul.non-sortable li { border-color:#c7b88e; }
 
 table.record-list tbody tr:hover td  { background: #ddd; }
 
+.wiki-anchor { color: transparent; }
+
