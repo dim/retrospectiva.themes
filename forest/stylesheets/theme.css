@@ -1,0 +1,36 @@
+body { background: #fff; }
+a       { color:#006633; text-decoration:none; background:none; }
+a:focus,
+a:hover { color:#00AA30; text-decoration:underline; background:none; }
+
+#header{ background: #2EA82E; }
+#header #status_info #login_info a { color:#f4f2e5; }
+#header #menu { background: #009933; border-bottom:1px solid #006B24; border-top:1px solid #00BB00; }
+#header #menu ul { border-top:0; }
+#header #menu a,
+#header #menu a:visited { color:#f4f2e5; padding-bottom:3px; }
+#header #menu #main-navigation li,
+#header #menu #main-navigation li a,
+#header #menu #base-navigation li,
+#header #menu #base-navigation li a  { border:0; }
+
+#header #menu a.active,
+#header #menu a:hover { background:#006600; text-decoration:none; color:#fff; }
+
+.border,
+.colborder,
+.content-header,
+.content-footer { border-color:#c7b88e; }
+
+
+th, tr.even td { background-color: #eee; }
+tr.odd td      { background-color: #fff; }
+pre            { background-color: #c7b88e; }
+table tfoot th,
+table tfoot td       { background:none; }
+
+ul.sortable li,
+ul.non-sortable li { border-color:#c7b88e; }
+
+table.record-list tbody tr:hover td  { background: #ddd; }
+
